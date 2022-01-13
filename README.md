@@ -2,7 +2,7 @@
 
 ## Command-line "utility" to spit out gibberish.
 
-Random characters from ASCII letters (upper and lower), digits, and punctuation characters.
+Prints random ASCII letters (upper and lower), digits, and punctuation characters. Why? **Because an idle terminal looks boring.** I added it to my PATH variable and like to keep it running (ironically, on `--slow`) in a small terminal pane inside VS Code when writing code.
 
 > Binary in [Releases](https://github.com/atiabbz/gibberish/releases/) is compiled for Windows using `gcc.exe (MinGW-W64 x86_64-posix-seh, built by Brecht Sanders) 11.2.0` from [MinGW-W64 GCC-8.1.0](https://sourceforge.net/projects/mingw-w64/files/).
 
